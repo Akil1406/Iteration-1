@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jasmine": "^6.1.0",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
