@@ -1,12 +1,32 @@
 {
   "devDependencies": {
-    "jasmine": "^6.1.0",
+    "@cucumber/cucumber": "^12.7.0",
+    "jasmine": "^6.2.0",
     "supertest": "^7.2.2"
   },
   "dependencies": {
     "body-parser": "^2.2.2",
     "cors": "^2.8.6",
     "express": "^5.2.1",
+    "puppeteer": "^24.40.0",
     "sqlite3": "^6.0.1"
-  }
+  },
+  "name": "akil",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # SWEITERATION1G6\r =======\r # Iteration-1\r >>>>>>> 0c91653d4e7aaaff342113644615d1987b9e0bde",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishmehtaRU/SWEG6.git#main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishmehtaRU/SWEG6/issues"
+  },
+  "homepage": "https://github.com/ashishmehtaRU/SWEG6/tree/main#readme"
 }
